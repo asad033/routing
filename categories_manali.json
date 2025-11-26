@@ -1,0 +1,34 @@
+[
+  {
+    "category": "Cultural Heritage & History",
+    "icon": "🏛️"
+  },
+  {
+    "category": "Spiritual & Wellness",
+    "icon": "🧘"
+  },
+  {
+    "category": "High-Adrenaline & Adventure",
+    "icon": "🧗"
+  },
+  {
+    "category": "Scenic Vistas & High-Altitude",
+    "icon": "🏞️"
+  },
+  {
+    "category": "Ecotourism & Wilderness Trekking",
+    "icon": "🌿"
+  },
+  {
+    "category": "Art, Offbeat & Local Immersion",
+    "icon": "🎨"
+  },
+  {
+    "category": "Local Cuisine & Cafés",
+    "icon": "🍽️"
+  },
+  {
+    "category": "Retail & Souvenirs",
+    "icon": "🛍️"
+  }
+]

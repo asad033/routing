@@ -1,0 +1,232 @@
+[
+  {
+    "city": "Havelock Island (Swaraj Dweep)",
+    "place_name": "The Wall",
+    "category": "Scuba & Snorkeling",
+    "description": "A submerged rock formation dropping to 55 meters, known for large pelagics like trevally and barracuda.",
+    "image": "/images/andaman_and_nicobar/Havelock_Island_Swaraj_Dweep_Scuba.jpg",
+    "rating": 4.8,
+    "lat": 12.0330,
+    "lng": 92.9800
+  },
+  {
+    "city": "Neil Island (Shaheed Dweep)",
+    "place_name": "Bus Stop & Junction",
+    "category": "Scuba & Snorkeling",
+    "description": "Gentle, shallow dive sites ideal for beginners and certification courses, featuring vibrant soft corals.",
+    "image": "/images/andaman_and_nicobar/Neil_Island_Shaheed_Dweep.jpg",
+    "rating": 4.5,
+    "lat": 11.8400,
+    "lng": 93.0400
+  },
+  {
+    "city": "Baratang Island",
+    "place_name": "Limestone Caves",
+    "category": "Trekking & Caves",
+    "description": "A logistical expedition involving a convoy transit and mangrove boat ride to see active stalactite formations.",
+    "image": "/images/andaman_and_nicobar/baratang_island_limestone_caves.jpg",
+    "rating": 4.5,
+    "lat": 12.1050,
+    "lng": 92.7500
+  },
+  {
+    "city": "Port Blair",
+    "place_name": "Mount Harriet to Madhuban",
+    "category": "Trekking & Caves",
+    "description": "A 16km wilderness trek through evergreen forests, offering birdwatching and historical significance.",
+    "image": "/images/andaman_and_nicobar/Port_Blair_Mountain_Harriet.jpg",
+    "rating": 4.2,
+    "lat": 11.7130,
+    "lng": 92.7350
+  },
+  {
+    "city": "Port Blair",
+    "place_name": "Rajiv Gandhi Water Sports Complex",
+    "category": "Water Sports",
+    "description": "The hub for Jet Skiing and 'Sea Karts', allowing tourists to drive their own watercraft.",
+    "image": "/images/andaman_and_nicobar/Rajiv_Ghandhi_Water_Sports_Complex.jpg",
+    "rating": 4.0,
+    "lat": 11.6680,
+    "lng": 92.7400
+  },
+  {
+    "city": "Havelock Island",
+    "place_name": "Elephant Beach",
+    "category": "Water Sports",
+    "description": "Famous for parasailing and sea walking, offering a mix of shallow reefs and high-adrenaline activities.",
+    "image": "/images/andaman_and_nicobar/elephant_beach.jpg",
+    "rating": 4.4,
+    "lat": 11.9900,
+    "lng": 92.9400
+  },
+  {
+    "city": "Havelock Island",
+    "place_name": "Radhanagar Beach",
+    "category": "Pristine Beaches",
+    "description": "Rated among Asia's best beaches. Features a long, sandy shelf with no sharp corals, perfect for swimming.",
+    "image": "/images/andaman_and_nicobar/Radhanagar_Beach.jpg",
+    "rating": 5.0,
+    "lat": 11.9840,
+    "lng": 92.9510
+  },
+  {
+    "city": "Neil Island",
+    "place_name": "Bharatpur Beach",
+    "category": "Pristine Beaches",
+    "description": "A shallow, crystal-clear lagoon rated 5-stars for child safety, ideal for family snorkeling.",
+    "image": "/images/andaman_and_nicobar/Bharatpur_Beach.jpg",
+    "rating": 4.6,
+    "lat": 11.8380,
+    "lng": 93.0520
+  },
+  {
+    "city": "Havelock Island",
+    "place_name": "Taj Exotica Resort & Spa",
+    "category": "Luxury & Wellness",
+    "description": "Ultra-luxury villas inspired by tribal dwellings, featuring the Jiva Spa and sustainable practices.",
+    "image": "/images/andaman_and_nicobar/Taj_Exotica_Resort_Spa.jpg",
+    "rating": 4.9,
+    "lat": 12.0000,
+    "lng": 92.9500
+  },
+  {
+    "city": "Port Blair",
+    "place_name": "Samudrika Naval Marine Museum",
+    "category": "Family Friendly",
+    "description": "Managed by the Navy, featuring a massive blue whale skeleton and an aquarium.",
+    "image": "/images/andaman_and_nicobar/Samudrika_Naval_Marine_Museum.jpg",
+    "rating": 4.3,
+    "lat": 11.6620,
+    "lng": 92.7280
+  },
+  {
+    "city": "Port Blair",
+    "place_name": "Science Centre",
+    "category": "Family Friendly",
+    "description": "Features an 'Andaman Gallery' on volcanic origins and interactive science exhibits for children.",
+    "image": "/images/andaman_and_nicobar/Science_Center.jpg",
+    "rating": 4.0,
+    "lat": 11.6500,
+    "lng": 92.7300
+  },
+  {
+    "city": "Port Blair",
+    "place_name": "Cellular Jail",
+    "category": "History & Heritage",
+    "description": "A national pilgrimage site with a Light & Sound show depicting the freedom struggle.",
+    "image": "/images/andaman_and_nicobar/cellular_jail.jpg",
+    "rating": 4.9,
+    "lat": 11.6740,
+    "lng": 92.7460
+  },
+  {
+    "city": "Ross Island (Netaji Subhash Chandra Bose Dweep)",
+    "place_name": "British Ruins & Japanese Bunkers",
+    "category": "History & Heritage",
+    "description": "Former British headquarters now in ruins, entwined with Banyan roots and WWII bunkers.",
+    "image": "/images/andaman_and_nicobar/British_Ruins_Japanese_Bunkers.jpg",
+    "rating": 4.7,
+    "lat": 11.6770,
+    "lng": 92.7620
+  },
+  {
+    "city": "Port Blair",
+    "place_name": "Chatham Saw Mill",
+    "category": "History & Heritage",
+    "description": "One of Asia's oldest sawmills (1883), featuring a Forest Museum and industrial heritage tours.",
+    "image": "/images/andaman_and_nicobar/Chatham_Saw_Mill.jpg",
+    "rating": 4.1,
+    "lat": 11.6880,
+    "lng": 92.7230
+  },
+  {
+    "city": "Port Blair",
+    "place_name": "Chidiya Tapu (Bird Island)",
+    "category": "Eco-Tours & Nature",
+    "description": "A biodiversity hotspot known for birdwatching, the Munda Pahar trek, and sunset views.",
+    "image": "/images/andaman_and_nicobar/chidiya_tapu_bird_island.jpg",
+    "rating": 4.6,
+    "lat": 11.5080,
+    "lng": 92.7060
+  },
+  {
+    "city": "Neil Island",
+    "place_name": "Natural Bridge (Howrah Bridge)",
+    "category": "Eco-Tours & Nature",
+    "description": "A geological arch carved by waves, accessible at low tide via a walk across dead coral flats.",
+    "image": "/images/andaman_and_nicobar/Natural_Bridge_Howrah_Bridge.jpg",
+    "rating": 4.6,
+    "lat": 11.8330,
+    "lng": 93.0430
+  },
+  {
+    "city": "North Andaman (Diglipur)",
+    "place_name": "Ross and Smith Islands",
+    "category": "Hidden Gems",
+    "description": "Twin islands connected by a natural sandbar that disappears at high tide.",
+    "image": "/images/andaman_and_nicobar/Ross_and_Smith_Islands.jpg",
+    "rating": 4.8,
+    "lat": 13.3080,
+    "lng": 92.9700
+  },
+  {
+    "city": "Great Nicobar",
+    "place_name": "Campbell Bay / Indira Point",
+    "category": "Hidden Gems",
+    "description": "The southernmost tip of India, recently opened to tourists under strict regulation.",
+    "image": "/images/andaman_and_nicobar/Campbell_Bay_Indira_Point.jpg",
+    "rating": 4.7,
+    "lat": 6.7530,
+    "lng": 93.8260
+  },
+  {
+    "city": "Long Island",
+    "place_name": "Lalaji Bay",
+    "category": "Hidden Gems",
+    "description": "A 'raw' tourism destination with pristine beaches, ideal for backpacking.",
+    "image": "/images/andaman_and_nicobar/Lalaji_bay.jpg",
+    "rating": 4.3,
+    "lat": 12.4000,
+    "lng": 92.9300
+  },
+  {
+    "city": "Havelock Island",
+    "place_name": "Nemo Café & Bar",
+    "category": "Island Cuisine",
+    "description": "A beachside nightlife spot with a DJ and dance floor on the sand.",
+    "image": "/images/andaman_and_nicobar/nemo_cafe_and_bar.jpg",
+    "rating": 4.2,
+    "lat": 12.0100,
+    "lng": 92.9600
+  },
+  {
+    "city": "Port Blair",
+    "place_name": "Amaya (SeaShell Hotel)",
+    "category": "Island Cuisine",
+    "description": "Rooftop lounge offering panoramic harbor views and fusion seafood.",
+    "image": "/images/andaman_and_nicobar/Amaya_SeaShell_Hotel.jpg",
+    "rating": 4.4,
+    "lat": 11.6650,
+    "lng": 92.7300
+  },
+  {
+    "city": "Port Blair",
+    "place_name": "Bella Bay Dinner Cruise",
+    "category": "Cruises & Island Hopping",
+    "description": "Luxury dinner cruise in the harbor with live music.",
+    "image": "/images/andaman_and_nicobar/Bella_Bay_Dinner_Cruise.jpg",
+    "rating": 4.3,
+    "lat": 11.6600,
+    "lng": 92.7400
+  },
+  {
+    "city": "Inter-Island",
+    "place_name": "Makruzz Catamaran",
+    "category": "Cruises & Island Hopping",
+    "description": "High-speed AC catamaran connecting Port Blair, Havelock, and Neil.",
+    "image": "/images/andaman_and_nicobar/Makruzz_Catamaran.jpg",
+    "rating": 4.5,
+    "lat": 11.6700,
+    "lng": 92.7400
+  }
+]

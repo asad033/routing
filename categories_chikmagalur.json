@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Peaks & Trekking",
+    "icon": "⛰️"
+  },
+  {
+    "category": "Waterfalls & Natural Springs",
+    "icon": "💧"
+  },
+  {
+    "category": "Spiritual & Architectural Heritage",
+    "icon": "🛕"
+  },
+  {
+    "category": "Coffee & Culinary Tourism",
+    "icon": "☕"
+  },
+  {
+    "category": "Wildlife & Conservation",
+    "icon": "🐅"
+  },
+  {
+    "category": "Lakes, Dams & Forts",
+    "icon": "🏰"
+  }
+]

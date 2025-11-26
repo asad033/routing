@@ -1,0 +1,172 @@
+[
+  {
+    "city": "Chikmagalur",
+    "place_name": "Mullayanagiri Peak",
+    "category": "Peaks & Trekking",
+    "description": "The highest peak in Karnataka (1950 meters) and a top destination for trekking and sunset views. It offers panoramic vistas of the Western Ghats.",
+    "image": "/images/chikmagalur/Mullayanagiri.jpg",
+    "rating": 4.8,
+    "lat": 13.3932,
+    "lng": 75.7196
+  },
+  {
+    "city": "Chikmagalur",
+    "place_name": "Baba Budangiri (Datta Peetha)",
+    "category": "Peaks & Trekking",
+    "description": "A sacred mountain range revered by both Hindus and Muslims. It is famous for its shrine, caves, and scenic trekking trails.",
+    "image": "/images/chikmagalur/Baba_Budangiri.jpg",
+    "rating": 4.5,
+    "lat": 13.4357,
+    "lng": 75.7670
+  },
+  {
+    "city": "Kemmanagundi",
+    "place_name": "Z Point",
+    "category": "Peaks & Trekking",
+    "description": "A popular vantage point offering breathtaking views of the lush green valleys. It involves a short, scenic trek from Kemmanagundi Raj Bhavan.",
+    "image": "/images/chikmagalur/Z_Point.jpg",
+    "rating": 4.6,
+    "lat": 13.5410,
+    "lng": 75.7001
+  },
+  {
+    "city": "Kudremukh",
+    "place_name": "Kudremukh Peak Trek",
+    "category": "Peaks & Trekking",
+    "description": "A spectacular peak shaped like a horse's face, offering one of the most scenic treks in the region through rolling hills and shola forests.",
+    "image": "/images/chikmagalur/Kudremukh_Peak.jpg",
+    "rating": 4.7,
+    "lat": 13.2190,
+    "lng": 75.2500
+  },
+  {
+    "city": "Kemmanagundi",
+    "place_name": "Hebbe Falls",
+    "category": "Waterfalls & Natural Springs",
+    "description": "A magnificent two-tiered waterfall cascading from 168 meters (551 ft) inside a coffee estate. Accessible via a thrilling jeep ride and a short trek.",
+    "image": "/images/chikmagalur/Hebbe_Falls.jpg",
+    "rating": 4.6,
+    "lat": 13.5476,
+    "lng": 75.7191
+  },
+  {
+    "city": "Attigundi",
+    "place_name": "Jhari Falls (Buttermilk Falls)",
+    "category": "Waterfalls & Natural Springs",
+    "description": "Known as 'Buttermilk Falls' for its white, frothy appearance, this waterfall is set amidst dense forests and coffee plantations.",
+    "image": "/images/chikmagalur/Jhari_Falls.jpg",
+    "rating": 4.5,
+    "lat": 13.4150,
+    "lng": 75.7400
+  },
+  {
+    "city": "Kemmanagundi",
+    "place_name": "Kalhatti Falls",
+    "category": "Waterfalls & Natural Springs",
+    "description": "A unique waterfall that cascades over the Veerabhadra Temple dedicated to Lord Shiva. It is a site of both natural beauty and spiritual significance.",
+    "image": "/images/chikmagalur/Kalhatti_Falls.jpg",
+    "rating": 4.3,
+    "lat": 13.5447,
+    "lng": 75.6983
+  },
+  {
+    "city": "Sringeri",
+    "place_name": "Sringeri Sharada Peetham",
+    "category": "Spiritual & Architectural Heritage",
+    "description": "One of the four cardinal peethams established by Adi Shankaracharya in the 8th century. The Vidyashankara Temple here is an architectural marvel blending Hoysala and Dravidian styles.",
+    "image": "/images/chikmagalur/Sringeri_Sharada_Peetham.jpg",
+    "rating": 4.9,
+    "lat": 13.4150,
+    "lng": 75.2550
+  },
+  {
+    "city": "Horanadu",
+    "place_name": "Annapoorneshwari Temple",
+    "category": "Spiritual & Architectural Heritage",
+    "description": "A famous temple dedicated to Goddess Annapoorna (Goddess of Food) located on the banks of the Bhadra River. It is renowned for offering free meals to all devotees.",
+    "image": "/images/chikmagalur/Horanadu_Temple.jpg",
+    "rating": 4.8,
+    "lat": 13.2618,
+    "lng": 75.1481
+  },
+  {
+    "city": "Belur",
+    "place_name": "Chennakesava Temple",
+    "category": "Spiritual & Architectural Heritage",
+    "description": "A masterpiece of Hoysala architecture from the 12th century, famous for its intricate stone carvings and sculptures. A UNESCO World Heritage nomination.",
+    "image": "/images/chikmagalur/Belur_Temple.jpg",
+    "rating": 4.8,
+    "lat": 13.1650,
+    "lng": 75.8590
+  },
+  {
+    "city": "Chikmagalur Town",
+    "place_name": "Coffee Museum",
+    "category": "Coffee & Culinary Tourism",
+    "description": "Run by the Coffee Board of India, this museum offers an in-depth journey into the history, cultivation, and processing of coffee.",
+    "image": "/images/chikmagalur/Coffee_Museum.jpg",
+    "rating": 4.4,
+    "lat": 13.3280,
+    "lng": 75.7830
+  },
+  {
+    "city": "Various Locations",
+    "place_name": "Coffee Plantation Tours",
+    "category": "Coffee & Culinary Tourism",
+    "description": "Guided walks through lush Arabica and Robusta plantations to learn about bean-to-cup processes, often ending with fresh coffee tasting.",
+    "image": "/images/chikmagalur/Coffee_Plantation.jpg",
+    "rating": 4.7,
+    "lat": 13.3500,
+    "lng": 75.7500
+  },
+  {
+    "city": "Muthodi",
+    "place_name": "Bhadra Wildlife Sanctuary",
+    "category": "Wildlife & Conservation",
+    "description": "A designated Tiger Reserve (Project Tiger) known for its rich population of tigers, leopards, and over 250 bird species. Offers jeep safaris for wildlife spotting.",
+    "image": "/images/chikmagalur/Bhadra_Wildlife_Sanctuary.jpg",
+    "rating": 4.4,
+    "lat": 13.7225,
+    "lng": 75.5268
+  },
+  {
+    "city": "Kudremukh",
+    "place_name": "Kudremukh National Park",
+    "category": "Wildlife & Conservation",
+    "description": "A UNESCO World Heritage Site renowned for its biodiversity, shola grasslands, and wet evergreen forests.",
+    "image": "/images/chikmagalur/Kudremukh_National_Park.jpg",
+    "rating": 4.7,
+    "lat": 13.2000,
+    "lng": 75.2500
+  },
+  {
+    "city": "Chikmagalur",
+    "place_name": "Hirekolale Lake",
+    "category": "Lakes, Dams & Forts",
+    "description": "A beautiful man-made lake surrounded by mountains and coffee plantations, famous for its stunning sunset views.",
+    "image": "/images/chikmagalur/Hirekolale_Lake.jpg",
+    "rating": 4.5,
+    "lat": 13.3150,
+    "lng": 75.7350
+  },
+  {
+    "city": "Kadur",
+    "place_name": "Ayyanakere Lake",
+    "category": "Lakes, Dams & Forts",
+    "description": "The second largest lake in Karnataka, offering serene views with the Baba Budangiri range in the backdrop.",
+    "image": "/images/chikmagalur/Ayyanakere_Lake.jpg",
+    "rating": 4.3,
+    "lat": 13.4500,
+    "lng": 75.9000
+  },
+  {
+    "city": "Kudremukh",
+    "place_name": "Ballalarayana Durga Fort",
+    "category": "Lakes, Dams & Forts",
+    "description": "Ruins of a 12th-century Hoysala fort located atop a hill, accessible via a scenic trek through dense forests.",
+    "image": "/images/chikmagalur/Ballalarayana_Durga_Fort.jpg",
+    "rating": 4.4,
+    "lat": 13.1890,
+    "lng": 75.2280
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "city": "Manali Town",
+    "place_name": "Hidimba Devi Temple",
+    "category": "Cultural Heritage & History",
+    "icon": "🏛️",
+    "description": "Unique 16th-century four-tiered Pagoda-style temple dedicated to Hidimba Devi, wife of Bhima. Noted for its Kath Kuni architecture and intricately carved wooden doors.",
+    "image": "/images/manali/Hidimba_Devi_Temple.jpg",
+    "rating": 4.8,
+    "lat": 32.2530,
+    "lng": 77.1850
+  },
+  {
+    "city": "Naggar",
+    "place_name": "Naggar Castle",
+    "category": "Cultural Heritage & History",
+    "icon": "🏛️",
+    "description": "Magnificent historical structure (1460 AD) and heritage hotel, showcasing unique Kath Kuni architecture (stone and wood without mortar).",
+    "image": "/images/manali/Naggar_Castle.jpg",
+    "rating": 4.7,
+    "lat": 32.1460,
+    "lng": 77.1650
+  },
+  {
+    "city": "Vashisht Village",
+    "place_name": "Vashisht Hot Springs & Temple",
+    "category": "Spiritual & Wellness",
+    "icon": "🧘",
+    "description": "Sulphurous hot springs with therapeutic minerals, dedicated to Sage Vashisht. Offers segregated bathing spaces for a restorative experience.",
+    "image": "/images/manali/Vashisht_Hot_Springs.jpg",
+    "rating": 4.4,
+    "lat": 32.2650,
+    "lng": 77.1850
+  },
+  {
+    "city": "Manali Town",
+    "place_name": "Manu Temple",
+    "category": "Spiritual & Wellness",
+    "icon": "🧘",
+    "description": "One of the few temples dedicated to Sage Manu. Located in serene Old Manali, ideal for meditation and introspection.",
+    "image": "/images/manali/Manu_Temple.jpg",
+    "rating": 4.5,
+    "lat": 32.2580,
+    "lng": 77.1700
+  },
+  {
+    "city": "Solang Valley",
+    "place_name": "Solang Valley Adventure Sports",
+    "category": "High-Adrenaline & Adventure",
+    "icon": "🧗",
+    "description": "The year-round adventure nexus for paragliding, zorbing, giant swing, and skiing (seasonal).",
+    "image": "/images/manali/Solang_Valley_Adventure.jpg",
+    "rating": 4.6,
+    "lat": 32.3160,
+    "lng": 77.1550
+  },
+  {
+    "city": "Beas River (Babeli)",
+    "place_name": "White-Water River Rafting",
+    "category": "High-Adrenaline & Adventure",
+    "icon": "🧗",
+    "description": "Popular 7 km stretch from Babeli offering thrilling rafting experiences (Grade I-IV rapids). Best seasons are April–June and October–November.",
+    "image": "/images/manali/Beas_River_Rafting.jpg",
+    "rating": 4.3,
+    "lat": 32.0620,
+    "lng": 77.2000
+  },
+  {
+    "city": "Manali Town",
+    "place_name": "Jogini Waterfall Trek",
+    "category": "High-Adrenaline & Adventure",
+    "icon": "🧗",
+    "description": "Scenic trail from Vashisht Village, combining spiritual reflection with mild physical activity and stunning views.",
+    "image": "/images/manali/Jogini_Waterfall.jpg",
+    "rating": 4.5,
+    "lat": 32.2600,
+    "lng": 77.1800
+  },
+  {
+    "city": "High-Altitude Zone",
+    "place_name": "Rohtang Pass",
+    "category": "Scenic Vistas & High-Altitude",
+    "icon": "🏞️",
+    "description": "Awe-inspiring, regulated high-altitude viewpoint (51 km from Manali), offering panoramic views of peaks and glaciers. Accessible May to October (permit mandatory).",
+    "image": "/images/manali/Rohtang_Pass.jpg",
+    "rating": 4.9,
+    "lat": 32.3780,
+    "lng": 77.2500
+  },
+  {
+    "city": "Solang Corridor",
+    "place_name": "Atal Tunnel (South Portal)",
+    "category": "Scenic Vistas & High-Altitude",
+    "icon": "🏞️",
+    "description": "Engineering marvel ensuring year-round access to Lahaul Valley and reliable high-altitude/snow experiences, bypassing the seasonal Rohtang Pass closure.",
+    "image": "/images/manali/Atal_Tunnel.jpg",
+    "rating": 4.7,
+    "lat": 32.3080,
+    "lng": 77.1700
+  },
+  {
+    "city": "Kullu District",
+    "place_name": "Great Himalayan National Park (GHNP)",
+    "category": "Ecotourism & Wilderness Trekking",
+    "icon": "🌿",
+    "description": "UNESCO World Heritage site and flagship ecotourism asset. Offers graded trekking (Easy to Difficult) and vital conservation for Himalayan biodiversity.",
+    "image": "/images/manali/GHNP.jpg",
+    "rating": 4.9,
+    "lat": 31.8100,
+    "lng": 77.4200
+  },
+  {
+    "city": "Naggar",
+    "place_name": "Nicholas Roerich Art Gallery",
+    "category": "Art, Offbeat & Local Immersion",
+    "icon": "🎨",
+    "description": "Preserved estate and gallery of the renowned Russian artist and philosopher Nicholas Roerich, displaying Himalayan-inspired paintings.",
+    "image": "/images/manali/Nicholas_Roerich_Art_Gallery.jpg",
+    "rating": 4.5,
+    "lat": 32.1480,
+    "lng": 77.1680
+  },
+  {
+    "city": "High-Altitude Zone",
+    "place_name": "Igloo Stay in Sethan Valley (Seasonal)",
+    "category": "Art, Offbeat & Local Immersion",
+    "icon": "🎨",
+    "description": "Rare, unique winter experiential stay in a real igloo, appealing to the discovery segment of travelers.",
+    "image": "/images/manali/Sethan_Igloo_Stay.jpg",
+    "rating": 4.6,
+    "lat": 32.2700,
+    "lng": 77.1800
+  },
+  {
+    "city": "Offbeat Manali",
+    "place_name": "Rumsu Village Immersion",
+    "category": "Art, Offbeat & Local Immersion",
+    "icon": "🎨",
+    "description": "Hidden treasure showcasing authentic Himachali culture, traditional wooden houses, and the ancient Jagatipatt Temple near Naggar.",
+    "image": "/images/manali/Rumsu_Village.jpg",
+    "rating": 4.3,
+    "lat": 32.1600,
+    "lng": 77.1900
+  },
+  {
+    "city": "Old Manali",
+    "place_name": "Café 1947 & Rocky's Cafe",
+    "category": "Local Cuisine & Cafés",
+    "icon": "🍽️",
+    "description": "Vibrant café scene offering continental and local flavors with stunning mountain and river views, catering to bohemian and youth travelers.",
+    "image": "/images/manali/Old_Manali_Cafes.jpg",
+    "rating": 4.2,
+    "lat": 32.2580,
+    "lng": 77.1750
+  },
+  {
+    "city": "Manali Town",
+    "place_name": "Mall Road & Himachal Emporium",
+    "category": "Retail & Souvenirs",
+    "icon": "🛍️",
+    "description": "The commercial center of Manali for retail tourism. Emporium known for Kullu shawls, Pashminas, and traditional Himachali Caps.",
+    "image": "/images/manali/Mall_Road_Emporium.jpg",
+    "rating": 4.1,
+    "lat": 32.2430,
+    "lng": 77.1880
+  }
+]

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Itinerary Builder</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+  <div class="app-container">
+    <aside class="sidebar">
+      <header class="app-header">
+        <h1>✈️ TripPlanner</h1>
+        <p>Build your perfect itinerary in minutes.</p>
+      </header>
+      
+      <!-- Step 1: Search -->
+      <section id="step-search" class="step-view active">
+        <h2>Where to next?</h2>
+        <div class="search-box">
+          <input 
+            type="text" 
+            id="destInput" 
+            class="main-input"
+            placeholder="Search destination (e.g., Paris, Manali)" 
+            autocomplete="off"
+          >
+          <div id="destSuggestions" class="suggestions-dropdown"></div>
+        </div>
+      </section>
+
+      <!-- Step 2: Attractions -->
+      <section id="step-attractions" class="step-view" style="display:none;">
+        <div class="step-header">
+          <h2>Explore <span id="cityName" class="highlight-text"></span></h2>
+          <button id="btnToHotels" class="btn btn-primary">Find Hotels →</button>
+        </div>
+        
+        <div id="categoriesBox" class="categories-grid"></div>
+        
+        <div class="places-container">
+          <h3>Nearby Places</h3>
+          <div id="placesResults" class="cards-list"></div>
+        </div>
+      </section>
+
+      <!-- Step 3: Hotels & Dates -->
+      <section id="step-hotels" class="step-view" style="display:none;">
+        <div class="step-header">
+          <h2>Where to stay?</h2>
+          <button id="btnBackToAttr" class="btn btn-secondary">← Back</button>
+        </div>
+        
+        <div id="hotelsResults" class="cards-list" style="margin-bottom: 20px;"></div>
+
+        <!-- NEW: Date Selection -->
+        <div class="date-selection-box">
+          <h3>Trip Dates</h3>
+          <div class="date-inputs">
+            <div class="input-group">
+              <label>Start Date</label>
+              <input type="date" id="startDate" class="date-input">
+            </div>
+            <div class="input-group">
+              <label>End Date</label>
+              <input type="date" id="endDate" class="date-input">
+            </div>
+          </div>
+        </div>
+
+        <button id="btnFinish" class="btn btn-success full-width" style="margin-top:20px;">
+          Check Feasibility & Generate
+        </button>
+      </section>
+
+      <!-- NEW Step 4: Final Itinerary Result -->
+      <section id="step-itinerary" class="step-view" style="display:none;">
+        <div class="step-header">
+          <h2>Your Itinerary 🗓️</h2>
+          <button id="btnEditItinerary" class="btn btn-secondary btn-sm">Edit / Fix</button>
+        </div>
+        
+        <div id="finalItineraryContainer" class="itinerary-timeline">
+          <!-- Days will be injected here -->
+        </div>
+        
+        <div class="download-section">
+          <button class="btn btn-primary full-width" onclick="alert('PDF feature coming soon!')">Download PDF ⬇️</button>
+        </div>
+      </section>
+
+      <!-- Footer List -->
+      <div class="my-list-section">
+        <div class="list-header">
+          <h3>Your List <span id="attractionCount" class="badge">0</span></h3>
+        </div>
+        <div id="yourList" class="mini-list"></div>
+      </div>
+    </aside>
+
+    <main class="map-container">
+      <div id="map"></div>
+    </main>
+  </div>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAI7TmQ8eRjelU2YdLkFEAZjdaok3P1vvI&callback=initMap" async defer></script>
+  <script src="app.js"></script>
+</body>
+</html>

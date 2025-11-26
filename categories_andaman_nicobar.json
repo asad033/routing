@@ -1,0 +1,46 @@
+[
+  {
+    "category": "Scuba & Snorkeling",
+    "icon": "🤿"
+  },
+  {
+    "category": "Trekking & Caves",
+    "icon": "🧗"
+  },
+  {
+    "category": "Water Sports",
+    "icon": "🚤"
+  },
+  {
+    "category": "Pristine Beaches",
+    "icon": "🏖️"
+  },
+  {
+    "category": "Luxury & Wellness",
+    "icon": "💆‍♀️"
+  },
+  {
+    "category": "Family Friendly",
+    "icon": "👨‍👩‍👧‍👦"
+  },
+  {
+    "category": "History & Heritage",
+    "icon": "🏛️"
+  },
+  {
+    "category": "Eco-Tours & Nature",
+    "icon": "🌿"
+  },
+  {
+    "category": "Hidden Gems",
+    "icon": "💎"
+  },
+  {
+    "category": "Island Cuisine",
+    "icon": "🦞"
+  },
+  {
+    "category": "Cruises & Island Hopping",
+    "icon": "🛳️"
+  }
+]
